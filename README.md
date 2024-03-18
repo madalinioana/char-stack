@@ -1,2 +1,2 @@
-# Proiectul1
- 
+# CharStack
+This project contains the implementation of a CharStack class in C++, representing a dynamically implemented character stack over a singly linked list structure. The CharStack class provides functionalities such as adding (Push) and removing (Pop) elements from the stack, checking if the stack is empty (IsEmpty), reversing a string, and more. The implementation follows the principles of object-oriented programming and offers a simple and user-friendly interface for manipulating the character stack.
