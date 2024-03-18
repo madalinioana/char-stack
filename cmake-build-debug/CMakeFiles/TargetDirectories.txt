@@ -1,0 +1,3 @@
+D:/Facultate/matematica_si_informatica/semestrul2/poo/Proiectul1/cmake-build-debug/CMakeFiles/Proiectul1.dir
+D:/Facultate/matematica_si_informatica/semestrul2/poo/Proiectul1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/matematica_si_informatica/semestrul2/poo/Proiectul1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

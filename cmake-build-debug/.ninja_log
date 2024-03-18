@@ -1,0 +1,21 @@
+# ninja log v5
+3	205	7323209506769127	CMakeFiles/Proiectul1.dir/main.cpp.obj	5e4371145ef470a8
+174	261	7323218694113973	Proiectul1.exe	76e1d2eebb91ab2f
+3	174	7323218693279626	CMakeFiles/Proiectul1.dir/CharStack.cpp.obj	95ab0f8606b31b86
+14	200	7323054889584045	CMakeFiles/Proiectul1.dir/Node.cpp.obj	9419cbcd9c9f2f4
+2	181	7323220853405711	CMakeFiles/Proiectul1.dir/CharStack.cpp.obj	95ab0f8606b31b86
+181	273	7323220854288976	Proiectul1.exe	76e1d2eebb91ab2f
+2	177	7323221828146179	CMakeFiles/Proiectul1.dir/CharStack.cpp.obj	95ab0f8606b31b86
+178	275	7323221829096940	Proiectul1.exe	76e1d2eebb91ab2f
+2	170	7323222596638101	CMakeFiles/Proiectul1.dir/CharStack.cpp.obj	95ab0f8606b31b86
+170	255	7323222597466484	Proiectul1.exe	76e1d2eebb91ab2f
+2	177	7323224615850091	CMakeFiles/Proiectul1.dir/CharStack.cpp.obj	95ab0f8606b31b86
+178	263	7323224616676768	Proiectul1.exe	76e1d2eebb91ab2f
+4	189	7323225032307837	CMakeFiles/Proiectul1.dir/CharStack.cpp.obj	95ab0f8606b31b86
+189	269	7323225033096311	Proiectul1.exe	76e1d2eebb91ab2f
+3	214	7323225290240708	CMakeFiles/Proiectul1.dir/CharStack.cpp.obj	95ab0f8606b31b86
+214	299	7323225291060656	Proiectul1.exe	76e1d2eebb91ab2f
+3	180	7323225369294417	CMakeFiles/Proiectul1.dir/CharStack.cpp.obj	95ab0f8606b31b86
+181	260	7323225370053200	Proiectul1.exe	76e1d2eebb91ab2f
+3	171	7323226529728433	CMakeFiles/Proiectul1.dir/main.cpp.obj	5e4371145ef470a8
+171	262	7323226530607188	Proiectul1.exe	76e1d2eebb91ab2f
