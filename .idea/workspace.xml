@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Proiectul1" targetName="Proiectul1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="689be7a2-b093-4f44-8056-b8ff32792f50" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/char-stack-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/.idea/Proiectul1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/CharStack.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/CharStack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/Node.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/reply/cache-v2-01711deeb3b1f7a95d85.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d0ce962ab646bd663f25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cf621c5104e4e7c1ef5f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-16T14-35-26-0077.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/reply/target-Proiectul1-Debug-f80c32a73a41c8a9daac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-3cb7ac949bd4d029da2a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/Proiectul1.dir/CharStack.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/Proiectul1.dir/Node.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/Proiectul1.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/Proiectul1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/char-stack-2/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/char-stack-2" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dlu2gODOLSfsAX2mEwuKVstYCM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Facultate/matematica_si_informatica/semestrul2/poo/Proiectul1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.main.cpp">
+    <configuration name="Proiectul1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Proiectul1" TARGET_NAME="Proiectul1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Proiectul1" RUN_TARGET_NAME="Proiectul1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Proiectul1" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
+      <option name="sourceFile" value="main.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="689be7a2-b093-4f44-8056-b8ff32792f50" name="Changes" comment="" />
+      <created>1710594781389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710594781389</updated>
+      <workItem from="1710594783577" duration="21649000" />
+      <workItem from="1710698393156" duration="69000" />
+      <workItem from="1710788136388" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>
