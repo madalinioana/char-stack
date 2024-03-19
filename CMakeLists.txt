@@ -7,5 +7,5 @@ add_executable(Proiectul1 main.cpp
         CharStack.cpp
         Node.cpp
         Node.h
-        Testing.cpp
-        Testing.h)
+        Test.cpp
+        Test.h)
