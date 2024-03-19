@@ -1,4 +1,4 @@
-#include "CharStack.h"
+#include "../CharStack.h"
 
 void TestNode() {
     Node c1; //constructor fara parametri

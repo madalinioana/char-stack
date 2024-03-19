@@ -1,5 +1,5 @@
 #include "CharStack.h"
-#include "Test.h"
+#include "test/Test.h"
 
 int main() {
     //TestNode();
