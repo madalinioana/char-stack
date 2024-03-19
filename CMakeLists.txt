@@ -6,4 +6,6 @@ set(CMAKE_CXX_STANDARD 98)
 add_executable(Proiectul1 main.cpp
         CharStack.cpp
         Node.cpp
-        Node.h)
+        Node.h
+        Testing.cpp
+        Testing.h)
