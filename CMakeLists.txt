@@ -8,4 +8,10 @@ add_executable(Proiectul1 main.cpp
         Node.cpp
         Node.h
         Test.cpp
-        Test.h)
+        Test.h
+        test/Test.cpp
+        test/Test.cpp
+        test/Test.cpp
+        test/Test.cpp
+        test/Test.cpp
+        test/Test.cpp)
