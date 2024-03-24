@@ -8,6 +8,8 @@ public:
     CharStack();
     //constructor de copiere
     CharStack(const CharStack &stack);
+    //destructor
+    ~CharStack();
 
     void Push(char character);
     char Pop();

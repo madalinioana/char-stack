@@ -28,6 +28,18 @@ CharStack::CharStack(const CharStack &stack) {
 
 }
 
+//destructor
+CharStack::~CharStack() {
+    Node* temp = NULL;
+
+    while (top != NULL) {
+        temp = top;
+        top = top->GetNext();
+        delete temp;
+    }
+    //std::cout << "S-a apelat destructorul" << "\n";
+}
+
 void CharStack::Push(char character) {
     Node* element = new Node;
     element->SetCharacter(character);

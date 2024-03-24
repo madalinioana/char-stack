@@ -25,7 +25,7 @@ void TestStack() {
     stiva.Push('b');
     stiva.Push('c');
     std::cout << stiva.Top() << "\n"; //metoda Top
-    stiva.IsEmpty(); //metoda IsEmpty
+    std::cout << stiva.IsEmpty() << "\n"; //metoda IsEmpty
     stiva.Pop(); //metoda Pop
     std::cout << stiva.Top() << "\n";
     stiva.Pop();
