@@ -3,7 +3,7 @@
 void TestNode() {
     Node c1; //constructor fara parametri
     Node c2('a'); //constructor cu un parametru
-    Node c3(c2); // constructor de copiere
+    Node c3(c2); //constructor de copiere
     Node c4('b');
     Node c5 = c4; //supraincarcarea operatorului de atribuire
     Node c6('c');
