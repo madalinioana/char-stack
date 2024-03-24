@@ -42,3 +42,16 @@ void InversareSir() {
     std::cout << stiva; //afisarea sirului inversat
 
 }
+
+void TestStack2() {
+    CharStack s1;
+    s1.Push('a');
+    s1.Push('b');
+    s1.Push('c');
+    std::cout << s1 << "\n";
+    CharStack s2;
+    s2 = s1; //supraincarcarea operatorului de atribuire
+    std::cout << s2 << "\n";
+    CharStack s3(s2); //constructorul de copiere
+    std::cout << s3 << "\n";
+}

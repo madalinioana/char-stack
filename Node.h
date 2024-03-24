@@ -14,7 +14,7 @@ public:
     Node(const Node &node);
     //destructor
     ~Node();
-    //operatorul de atribuire
+    //supraincarcarea operatorului de atribuire
     Node &operator=(const Node &node);
     //gettere
     char GetCharacter();
